@@ -1,19 +1,24 @@
 {
-  "name": "imersao-frontend-spotify-clone-1",
+  "name": "imersao-frontend-spotify-clone",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taynasuperti/Imersao-Frontend-Spotify-Clone.git"
+    "url": "git+https://github.com/taynasuperti/imersao-frontend-spotify-clone.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/taynasuperti/Imersao-Frontend-Spotify-Clone/issues"
+    "url": "https://github.com/taynasuperti/imersao-frontend-spotify-clone/issues"
   },
-  "homepage": "https://github.com/taynasuperti/Imersao-Frontend-Spotify-Clone#readme",
-  "description": ""
+  "homepage": "https://github.com/taynasuperti/imersao-frontend-spotify-clone#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  }
 }
